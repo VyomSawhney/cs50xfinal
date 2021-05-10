@@ -1,3 +1,3 @@
 # Converter Written In C
 #### Video Demo: https://youtu.be/0YKQ1KMGX3M
-#### Description: Hello, this is my final project for CS50x where I have created a converter in the programming language C to convert Distances, Temps, and Liquids. Hope you enjoy!
+#### Description: Hello, this is my final project for CS50x where I have created a converter in the programming language C to convert Distances, Temps, and Liquids. Hope you enjoy! This course has been amazing and has opened many doorways that were unknown to me before I found this course. This course went in so much detail and the community around the course was amazzing. If I ever needed help on this final I could just post a question. This final project showed that I had learned something that I was not capable of doing prior.
